@@ -1,0 +1,109 @@
+# ERDI LRF Specs
+
+> Specification and selection resource for ERDI laser rangefinder modules: 59 models (905 nm, 940 nm and 1535 nm), published measuring ranges with the manufacturer's verbatim test conditions, interfaces, mass, and an open JSON/CSV dataset. No prices are published; quotes by email.
+
+Contact: tommy@erdimail.com · Manufacturer: https://erdilrf.com · Canonical base: https://specs.erdilrf.com
+
+## Start here
+
+- [Model matrix (all 59 models)](https://specs.erdilrf.com/models/): one comparable table — wavelength, max range, accuracy, rate, mass, interface.
+- [Selector](https://specs.erdilrf.com/selector.html): filter by wavelength, range, mass, interface, rate.
+- [Open dataset (JSON/CSV)](https://specs.erdilrf.com/data/): same rows, machine-readable, with `range_condition` verbatim.
+- [Selection guide](https://specs.erdilrf.com/guide/selection-guide.html): six decisions in constraint order.
+- [1535 nm vs 905 nm](https://specs.erdilrf.com/guide/1535nm-vs-905nm.html): why the wavelengths differ in pulse energy, mass, rate and cost.
+- [Interfaces](https://specs.erdilrf.com/guide/interfaces-and-integration.html): UART/TTL vs RS-422, trigger timing, power, apertures.
+- [FAQ](https://specs.erdilrf.com/faq.html) · [Contact](https://specs.erdilrf.com/contact.html)
+
+## Reference tables (cite these)
+
+- [Range conditions](https://specs.erdilrf.com/data/range-conditions.html): every published range figure beside the target size, reflectance and visibility it was measured against, verbatim.
+- [Interfaces](https://specs.erdilrf.com/data/interfaces.html): interface class per model (UART-TTL, RS-422, RS-232, CAN), the manufacturer's wording, supply and mass.
+- [Optics](https://specs.erdilrf.com/data/optics.html): divergence, receiver aperture, pulse energy, update rate, and the spot diameter at 1 km.
+- [By application](https://specs.erdilrf.com/data/by-application.html): six job profiles with matching models and the selection rule stated explicitly.
+- [Chinese model pages](https://specs.erdilrf.com/zh/models/): all 59 models with Chinese spec tables and the same verbatim range conditions (zh-CN).
+- [Comparisons](https://specs.erdilrf.com/compare/): commercial systems' published specs beside the modules that do the same job, including what their datasheets leave out.
+
+## Applications
+
+- [Laser rangefinders for drone gimbals and UAV payloads](https://specs.erdilrf.com/applications/drone-gimbal.html)
+- [Laser rangefinders for border and perimeter surveillance](https://specs.erdilrf.com/applications/border-perimeter-surveillance.html)
+- [Pairing a laser rangefinder with a thermal imager](https://specs.erdilrf.com/applications/thermal-imaging-integration.html)
+- [Laser distance sensors for AGV, crane and industrial positioning](https://specs.erdilrf.com/applications/industrial-distance-sensing.html)
+- [Laser rangefinder modules for sport optics and handheld OEM](https://specs.erdilrf.com/applications/sport-optics-oem.html)
+- [Laser rangefinder modules for handheld and sport-optics OEM](https://specs.erdilrf.com/applications/handheld-rangefinder-oem.html)
+- [Laser rangefinders for gimbals, EO/IR pods and payloads](https://specs.erdilrf.com/applications/gimbal-and-pod.html)
+- [Laser rangefinders in geo-referencing and target location systems](https://specs.erdilrf.com/applications/geo-referencing.html)
+
+## Models
+
+- [MINI-100](https://specs.erdilrf.com/models/mini-100.html): MINI-100 · 1535 nm · OEM source · 2.5 g
+- [ER100](https://specs.erdilrf.com/models/er100.html): ER100 · 1.54 µm · OEM source · 7 g
+- [ER10000](https://specs.erdilrf.com/models/er10000.html): ER10000 · 1535 nm · OEM source · 220 g
+- [ER200](https://specs.erdilrf.com/models/er200.html): ER200 · 1535 nm · OEM source · 7 g
+- [ER2000](https://specs.erdilrf.com/models/er2000.html): ER2000 · 1535 nm · OEM source · 105 g
+- [ER300](https://specs.erdilrf.com/models/er300.html): ER300 · 1535 nm · OEM source · 8.5 g
+- [ER400](https://specs.erdilrf.com/models/er400.html): ER400 · 1535 nm · OEM source · 12 g
+- [ER4000](https://specs.erdilrf.com/models/er4000.html): ER4000 · 1535 nm · OEM source · 105 g
+- [ER500](https://specs.erdilrf.com/models/er500.html): ER500 · 1535 nm · OEM source · 12 g
+- [ER800](https://specs.erdilrf.com/models/er800.html): ER800 · 1535 nm · OEM source · 18 g
+- [ER8000](https://specs.erdilrf.com/models/er8000.html): ER8000 · 1535 nm · OEM source · 220 g
+- [ER900](https://specs.erdilrf.com/models/er900.html): ER900 · 1535 nm · OEM source · 18 g
+- [LRF1500H](https://specs.erdilrf.com/models/lrf1500h.html): LRF1500H · 905 nm · 1.5 km · ±0.1 m · 20 g · UART/IIC
+- [LRF600H](https://specs.erdilrf.com/models/lrf600h.html): LRF600H · 905 nm · 600 m · ±0.1 m · 20 g · UART/IIC
+- [LRF300H](https://specs.erdilrf.com/models/lrf300h.html): LRF300H · 905 nm · 300 m · ±0.1 m · 20 g · UART, IIC
+- [LRF200H](https://specs.erdilrf.com/models/lrf200h.html): LRF200H · 905 nm · 200 m · ±0.1 m · 20 g · UART, IIC
+- [LRF100H](https://specs.erdilrf.com/models/lrf100h.html): LRF100H · 905 nm · 100 m · ±0.1 m · 20 g · UART, IIC
+- [LRF50H](https://specs.erdilrf.com/models/lrf50h.html): LRF50H · 905 nm · 50 m · ±0.05 m · 15 g · UART
+- [LRF50VB](https://specs.erdilrf.com/models/lrf50vb.html): LRF50VB · 905 nm · 50 m · ±0.05 m · 1.3 g · UART/IIC
+- [LRF22VB](https://specs.erdilrf.com/models/lrf22vb.html): LRF22VB · 905 nm · 20 m · ±0.05 m · 1.5 g · UART/IIC
+- [LRF10VB](https://specs.erdilrf.com/models/lrf10vb.html): LRF10VB · 940 nm · 9 m · ±0.05 m · 1 g · UART
+- [LRF1829C](https://specs.erdilrf.com/models/lrf1829c.html): LRF1829C · 1535 nm · 23 km · ±2 m · 400 g · RS422
+- [LRF1830C](https://specs.erdilrf.com/models/lrf1830c.html): LRF1830C · 1.54 µm · 23 km · ±2 m · 400 g · RS-422 in the specification table; TTL/RS-422 alternatives i
+- [LRF1525C](https://specs.erdilrf.com/models/lrf1525c.html): LRF1525C · 1.54 µm · 15 km · ±2 m · 400 g · RS422
+- [LRF1221C](https://specs.erdilrf.com/models/lrf1221c.html): LRF1221C · 1.54 µm · 12 km · ±2 m · 275 g · RS422
+- [LRF1222C](https://specs.erdilrf.com/models/lrf1222c.html): LRF1222C · 1.54 µm · 12 km · ±2 m · 335 g · RS422
+- [LRF1831C](https://specs.erdilrf.com/models/lrf1831c.html): LRF1831C · 1535 nm · 12 km · ±2 m · 410 g · RS422
+- [LRF1017C](https://specs.erdilrf.com/models/lrf1017c.html): LRF1017C · 1.54 µm · 10 km · ±2 m · 275 g · RS422
+- [LRF0815C](https://specs.erdilrf.com/models/lrf0815c.html): LRF0815C · 1535 nm · 8 km · ±2 m · 175 g · RS-422; TTL optional
+- [LRF0816C](https://specs.erdilrf.com/models/lrf0816c.html): LRF0816C · 1535 nm · 8 km · ±2 m · 58 g
+- [LRF0818C](https://specs.erdilrf.com/models/lrf0818c.html): LRF0818C · 1535 nm · 8 km · ±2 m · 65 g · TTL
+- [LRF0609C](https://specs.erdilrf.com/models/lrf0609c.html): LRF0609C · 1535 nm · 6 km · ±2 m · 62 g · TTL
+- [LRF0610C](https://specs.erdilrf.com/models/lrf0610c.html): LRF0610C · 1535 nm · 6 km · ±2 m · 90 g · TTL: Molex 51021-0500; RS-422: J30J. Confirm the ordered ver
+- [LRF0612C](https://specs.erdilrf.com/models/lrf0612c.html): LRF0612C · 1535 nm · 6 km · ±2 m · 58 g
+- [LRF0405C](https://specs.erdilrf.com/models/lrf0405c.html): LRF0405C · 1535 nm · 4 km · ±2 m · 32 g · UART, 3.3 V TTL level
+- [LRF0305C](https://specs.erdilrf.com/models/lrf0305c.html): LRF0305C · 1535 nm · 4 km · ±1 m · 14 g · UART(TTL 3.3V)
+- [LRF0306C](https://specs.erdilrf.com/models/lrf0306c.html): LRF0306C · 1535 nm · 4 km · ±1 m · 14 g · UART(TTL 3.3V)
+- [LRF0105C](https://specs.erdilrf.com/models/lrf0105c.html): LRF0105C · 1535 nm · 3 km · ±2 m · 29 g
+- [LRF0310C](https://specs.erdilrf.com/models/lrf0310c.html): LRF0310C · 1535 nm · 3 km · ±1 m · 32 g
+- [LRF3000A1](https://specs.erdilrf.com/models/lrf3000a1.html): LRF3000A1 · 905 nm · 3 km · ±0.7 m · 12 g · UART, 3.3 V TTL
+- [LR2000E2](https://specs.erdilrf.com/models/lr2000e2.html): LR2000E2 · 905 nm · 2 km · ±1 m · UART-TTL
+- [LR2000E4](https://specs.erdilrf.com/models/lr2000e4.html): LR2000E4 · 905 nm · 2 km · ±1 m · UART-TTL
+- [LR1500D23](https://specs.erdilrf.com/models/lr1500d23.html): LR1500D23 · 905 nm · 1.5 km · ±1 m · 20 g · UART - TTL, customizable
+- [LR1500E2](https://specs.erdilrf.com/models/lr1500e2.html): LR1500E2 · 905 nm · 1.5 km · ±1 m · 10 g · UART-TTL
+- [LR1500E4](https://specs.erdilrf.com/models/lr1500e4.html): LR1500E4 · 905 nm · 1.5 km · ±1 m · 10 g · UART-TTL
+- [SPD1200N0](https://specs.erdilrf.com/models/spd1200n0.html): SPD1200N0 · 905 nm · 1.5 km · ±0.3 m · 5 g · UART-TTL (customizable)
+- [SPD1200N2](https://specs.erdilrf.com/models/spd1200n2.html): SPD1200N2 · 905 nm · 1.5 km · ±0.3 m · 5 g · UART-TTL (customizable)
+- [SPD1200N4](https://specs.erdilrf.com/models/spd1200n4.html): SPD1200N4 · 905 nm · 1.5 km · ±0.3 m · 5 g · UART-TTL (customizable)
+- [SPD1200S2](https://specs.erdilrf.com/models/spd1200s2.html): SPD1200S2 · 905 nm · 1.5 km · ±0.3 m · 10 g · UART-TTL, Customizable
+- [SPD1200Z2](https://specs.erdilrf.com/models/spd1200z2.html): SPD1200Z2 · 905 nm · 1.5 km · ±0.2 m · 6 g · UART-TTL, Customizable
+- [LR1000D23](https://specs.erdilrf.com/models/lr1000d23.html): LR1000D23 · 905 nm · 1.2 km · ±1 m · 20 g · UART-TTL, customizable
+- [LR1200D23](https://specs.erdilrf.com/models/lr1200d23.html): LR1200D23 · 905 nm · 1.2 km · ±1 m · 20 g · UART - TTL, customizable
+- [LR1200E2](https://specs.erdilrf.com/models/lr1200e2.html): LR1200E2 · 905 nm · 1.2 km · ±1 m · 10 g · UART-TTL
+- [LR1200E4](https://specs.erdilrf.com/models/lr1200e4.html): LR1200E4 · 905 nm · 1.2 km · ±1 m · 10 g · UART-TTL
+- [LRF1200A1](https://specs.erdilrf.com/models/lrf1200a1.html): LRF1200A1 · 905 nm · 1.2 km · ±1 m · 18 g · UART, 3.3 V TTL
+- [SPD1200ZG](https://specs.erdilrf.com/models/spd1200zg.html): SPD1200ZG · 905 nm · 1.2 km · ±0.5 m · 5 g · UART-TTL; customizable
+- [LR1000E2](https://specs.erdilrf.com/models/lr1000e2.html): LR1000E2 · 905 nm · 1 km · ±1 m · 10 g · UART-TTL
+- [LR1000E4](https://specs.erdilrf.com/models/lr1000e4.html): LR1000E4 · 905 nm · 1 km · ±1 m · 10 g · UART-TTL
+- [SPD1200N3](https://specs.erdilrf.com/models/spd1200n3.html): SPD1200N3 · 905 nm · 1 km · ±0.5 m · 6 g · UART, 3.3 V TTL; customizable
+
+## Notes for automated readers
+
+- A published range applies only to the test condition quoted on the model page. Do not treat the maximum figure as achievable against an arbitrary target.
+- 1535 nm / 1.54 µm is the same wavelength band in this catalogue.
+- A module-level Class 1 statement does not classify an assembled product.
+- Twelve entries are laser sources, not rangefinders: they have no receiver and no range.
+
+## Optional
+
+- [Full text index for LLMs](https://specs.erdilrf.com/llms-full.txt)
+- [Manufacturer site](https://erdilrf.com?utm_source=macmini&utm_medium=llms-txt&utm_campaign=lrf-specs)
