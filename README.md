@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23655337.svg)](https://doi.org/10.5281/zenodo.23655337)
+
 # ERDI LRF specification dataset — 59 laser rangefinder modules
 
 Open parameter table for ERDI's laser rangefinder modules and laser sources, published as JSON
@@ -55,6 +57,8 @@ an empty `range_condition` rather than a guessed one. Do not average these numbe
 Data: CC BY 4.0 — use it, quote it, build on it; keep the attribution line:
 
 > ERDI TECH LTD, ERDI laser rangefinder specification dataset, https://specs.erdilrf.com/data
+
+Archived copy with a DOI: **https://doi.org/10.5281/zenodo.23655337** (Zenodo, 2026).
 
 No prices are published anywhere in this dataset. Commercial terms are quoted per inquiry.
 
