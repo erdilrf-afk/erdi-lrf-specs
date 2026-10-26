@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ERDI laser rangefinder module dataset — 59 models, 905 / 940 / 1535 nm</title>
+<meta name="description" content="Open dataset of 59 ERDI laser rangefinder modules and single-point LiDAR sensors with the manufacturer's verbatim test condition on every range figure. JSON, CSV, CC BY 4.0.">
+<link rel="canonical" href="https://specs.erdilrf.com/data/">
+<style>
+:root{--ink:#16171a;--mut:#5b6169;--line:#e3e6ea;--bg:#fbfbfc}
+*{box-sizing:border-box}body{margin:0;font:16px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--bg)}
+main{max-width:760px;margin:0 auto;padding:56px 24px 80px}
+h1{font-size:30px;line-height:1.25;margin:0 0 12px}h2{font-size:19px;margin:36px 0 10px}
+p{color:var(--mut);margin:0 0 14px}a{color:#0b5fff}
+ul{padding-left:20px;color:var(--mut)}li{margin:6px 0}
+code{background:#eef1f5;padding:1px 5px;border-radius:4px;font-size:14px;color:#2b3138}
+.card{border:1px solid var(--line);border-radius:10px;padding:16px 18px;background:#fff;margin:18px 0}
+table{width:100%;border-collapse:collapse;font-size:14px;margin:10px 0}
+th,td{text-align:left;padding:7px 8px;border-bottom:1px solid var(--line)}
+th{color:#3a4048;font-weight:600}
+footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);font-size:13px;color:var(--mut)}
+</style>
+</head>
+<body>
+<main>
+<h1>ERDI laser rangefinder module dataset</h1>
+<p>59 modules and single-point LiDAR sensors, published as JSON and CSV, where <b>every range figure keeps the
+manufacturer's own test condition</b> — target size, reflectance, visibility. Values are transcribed, never
+extrapolated: where no condition is published the field stays empty.</p>
+
+<div class="card">
+<p style="margin:0"><b>Live spec pages and the full dataset:</b>
+<a href="https://specs.erdilrf.com/data/">specs.erdilrf.com/data</a> ·
+<a href="https://specs.erdilrf.com/1535nm-laser-rangefinder-module/">1535 nm band in one page</a> ·
+<a href="https://specs.erdilrf.com/models/">model matrix</a></p>
+</div>
+
+<h2>What is in this repository</h2>
+<table>
+<tr><th>File</th><th>Contents</th></tr>
+<tr><td><a href="erdi-lrf-specs.json">erdi-lrf-specs.json</a></td><td>59 records, 29 fields</td></tr>
+<tr><td><a href="erdi-lrf-specs.csv">erdi-lrf-specs.csv</a></td><td>same rows, flat CSV</td></tr>
+<tr><td><a href="llms.txt">llms.txt</a></td><td>plain-text index for retrieval</td></tr>
+</table>
+
+<h2>Why the condition matters</h2>
+<p>Two datasheets that both say "20 km" are not comparable until you know what each was pointed at. A 23 km row and
+a 3 km row can be the same wavelength, the same eye-safety argument and the same interface — the difference is
+aperture, pulse energy, mass, and the target the figure was measured against.</p>
+<p>Example row: <code>LRF0105C</code> — ≥3,000 m against a 2.3 × 2.3 m reference target at 30 % reflectance and
+≥5 km visibility; ≥1,500 m against a human-size 0.5 × 1.7 m target.</p>
+
+<h2>Bands covered</h2>
+<ul>
+<li><b>905 nm</b> — silicon detector, 1–20 g, 9 m to 3 km, up to 1 kHz</li>
+<li><b>940 nm</b> — single-point LiDAR, 9–50 m, 1.0–1.5 g</li>
+<li><b>1535 nm</b> — erbium glass + InGaAs, 3–23 km, 14–410 g, 0.5–10 Hz</li>
+</ul>
+
+<h2>Licence and citation</h2>
+<p>CC BY 4.0. Citation line: ERDI TECH LTD, <i>ERDI laser rangefinder specification dataset</i>,
+<a href="https://specs.erdilrf.com/data/">https://specs.erdilrf.com/data/</a> — archived copy with a DOI:
+<a href="https://doi.org/10.5281/zenodo.23655337">10.5281/zenodo.23655337</a>.</p>
+<p>No prices are published anywhere in this dataset.</p>
+
+<footer>
+ERDI TECH LTD · Longquanyi District, Chengdu 610107, China · Manufacturer site
+<a href="https://erdilrf.com">erdilrf.com</a>
+</footer>
+</main>
+</body>
+</html>
