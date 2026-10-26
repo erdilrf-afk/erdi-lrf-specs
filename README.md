@@ -8,6 +8,12 @@ and CSV so that two suppliers can be compared on the same rows.
 Source of truth: **https://specs.erdilrf.com/data** — this repository is a mirror of that page.
 If the two disagree, the site wins.
 
+## Where to start
+
+- **1535 nm band in one page** (every model, the condition behind each range): https://specs.erdilrf.com/1535nm-laser-rangefinder-module/
+- Field-by-field dataset page: https://specs.erdilrf.com/data/
+- Full model matrix: https://specs.erdilrf.com/models/
+
 ## What is in here
 
 | file | contents |
