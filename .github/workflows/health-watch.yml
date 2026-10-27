@@ -1,0 +1,21 @@
+name: health-watch
+on:
+  schedule:
+    - cron: "17 * * * *"   # 每小时 17 分；机外检查，不依赖 Mac
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: fetch health page
+        run: |
+          set +e
+          BODY=$(curl -sS --max-time 30 https://specs.erdilrf.com/health.html)
+          CODE=$?
+          echo "$BODY" | tail -20
+          if [ $CODE -ne 0 ]; then echo "::error::health page unreachable (curl=$CODE)"; exit 1; fi
+          if ! echo "$BODY" | grep -q "STATUS: OK"; then
+            echo "::error::ERDI scheduler looks stale — Mac may be off or tick stopped"
+            exit 1
+          fi
+          echo "health OK"
