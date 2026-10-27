@@ -7,10 +7,10 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - name: fetch health page (follow redirects)
+      - name: fetch health page
         run: |
           set +e
-          BODY=$(curl -sSL --max-time 30 -A "Mozilla/5.0" https://specs.erdilrf.com/health.html)
+          BODY=$(curl -sSL --max-time 30 -A "Mozilla/5.0" https://specs.erdilrf.com/health)
           CODE=$?
           echo "$BODY" | tail -20
           if [ $CODE -ne 0 ]; then echo "::error::health page unreachable (curl=$CODE)"; exit 1; fi
