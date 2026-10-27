@@ -71,4 +71,4 @@ No prices are published anywhere in this dataset. Commercial terms are quoted pe
 ## Contact
 
 Tommy Yu (余世文) — Foreign Trade Manager, ERDI TECH LTD, Chengdu, China
-tommy@erdimail.com · https://specs.erdilrf.com
+specs@erdilrf.com · https://specs.erdilrf.com
