@@ -10,6 +10,8 @@ Cite as: ERDI TECH LTD (2026). ERDI laser rangefinder module dataset, 59 models.
 
 - [Model matrix (all 59 models)](https://specs.erdilrf.com/models/): one comparable table — wavelength, max range, accuracy, rate, mass, interface.
 - [Selector](https://specs.erdilrf.com/selector): filter by wavelength, range, mass, interface, rate.
+- [Distributor terms](https://specs.erdilrf.com/distributors): what we provide resellers — evaluation unit, no minimum order, datasheets with test conditions, engineer support, territory policy, civil-only scope.
+- [Supplier and ordering information](https://specs.erdilrf.com/supplier): legal entity, ISO 9001 certificate, MOQ, samples, lead times, export documentation.
 - [Open dataset (JSON/CSV)](https://specs.erdilrf.com/data/): same rows, machine-readable, with `range_condition` verbatim.
 - [1535 nm laser rangefinder modules](https://specs.erdilrf.com/1535nm-laser-rangefinder-module/): the eye-safe band in one page — every model, the condition behind each range, interfaces and the questions that decide the part.
 - [Selection guide](https://specs.erdilrf.com/guide/selection-guide): six decisions in constraint order.
@@ -120,6 +122,7 @@ Cite as: ERDI TECH LTD (2026). ERDI laser rangefinder module dataset, 59 models.
 ## Method (cite this)
 
 - [Rangefinder test method](https://specs.erdilrf.com/data/test-method): the four parameters a range claim needs (target size, reflectance, visibility, environment), the ten-shot sequence, hit rate, and a report format a third party can use.
+- [Derived figures on each model page](https://specs.erdilrf.com/models/): every model page states three values computed only from its published specification — beam footprint at maximum range (divergence × range), mass per kilometre of published range, and the shortest interval between measurements (1 ÷ update rate). Arithmetic only; not a measurement and not a guarantee.
 
 
 ## Other languages
