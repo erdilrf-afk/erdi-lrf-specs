@@ -1,6 +1,6 @@
 # ERDI LRF Specs
 
-> Specification and selection resource for ERDI laser rangefinder modules: 60 models (905 nm, 940 nm and 1535 nm), published measuring ranges with the manufacturer's verbatim test conditions, interfaces, mass, and an open JSON/CSV dataset. No prices are published; quotes by email.
+> Specification and selection resource for ERDI laser rangefinder modules: 61 models (905 nm, 940 nm and 1535 nm), published measuring ranges with the manufacturer's verbatim test conditions, interfaces, mass, and an open JSON/CSV dataset. No prices are published; quotes by email.
 
 Contact: specs@erdilrf.com · Manufacturer: https://erdilrf.com · Canonical base: https://specs.erdilrf.com
 
@@ -8,7 +8,7 @@ Cite as: ERDI TECH LTD (2026). ERDI laser rangefinder module dataset, 59 models.
 
 ## Start here
 
-- [Model matrix (all 60 models)](https://specs.erdilrf.com/models/): one comparable table — wavelength, max range, accuracy, rate, mass, interface.
+- [Model matrix (all 61 models)](https://specs.erdilrf.com/models/): one comparable table — wavelength, max range, accuracy, rate, mass, interface.
 - [Selector](https://specs.erdilrf.com/selector): filter by wavelength, range, mass, interface, rate.
 - [Distributor terms](https://specs.erdilrf.com/distributors): what we provide resellers — evaluation unit, no minimum order, datasheets with test conditions, engineer support, territory policy, civil-only scope.
 - [Export documentation](https://specs.erdilrf.com/export): documents that ship with an order, classification, what we need from the buyer, and timing.
@@ -43,7 +43,7 @@ Cite as: ERDI TECH LTD (2026). ERDI laser rangefinder module dataset, 59 models.
 - [Interfaces](https://specs.erdilrf.com/data/interfaces): interface class per model (UART-TTL, RS-422, RS-232, CAN), the manufacturer's wording, supply and mass.
 - [Optics](https://specs.erdilrf.com/data/optics): divergence, receiver aperture, pulse energy, update rate, and the spot diameter at 1 km.
 - [By application](https://specs.erdilrf.com/data/by-application): six job profiles with matching models and the selection rule stated explicitly.
-- [Chinese model pages](https://specs.erdilrf.com/zh/models/): all 60 models with Chinese spec tables and the same verbatim range conditions (zh-CN).
+- [Chinese model pages](https://specs.erdilrf.com/zh/models/): all 61 models with Chinese spec tables and the same verbatim range conditions (zh-CN).
 - [Comparisons](https://specs.erdilrf.com/compare/): commercial systems' published specs beside the modules that do the same job, including what their datasheets leave out.
 
 ## Applications
@@ -72,6 +72,7 @@ Cite as: ERDI TECH LTD (2026). ERDI laser rangefinder module dataset, 59 models.
 - [ER800](https://specs.erdilrf.com/models/er800): ER800 · 1535 nm · OEM source · 18 g
 - [ER8000](https://specs.erdilrf.com/models/er8000): ER8000 · 1535 nm · OEM source · 220 g
 - [ER900](https://specs.erdilrf.com/models/er900): ER900 · 1535 nm · OEM source · 18 g
+- [ER40](https://specs.erdilrf.com/models/er40): ER40 · 1535 nm · OEM source · 7 g
 - [LRF1500H](https://specs.erdilrf.com/models/lrf1500h): LRF1500H · 905 nm · 1.5 km · ±0.1 m · 20 g · UART/IIC
 - [LRF600H](https://specs.erdilrf.com/models/lrf600h): LRF600H · 905 nm · 600 m · ±0.1 m · 20 g · UART/IIC
 - [LRF300H](https://specs.erdilrf.com/models/lrf300h): LRF300H · 905 nm · 300 m · ±0.1 m · 20 g · UART, IIC
