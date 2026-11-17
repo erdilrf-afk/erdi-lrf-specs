@@ -4,7 +4,7 @@
 
 Contact: specs@erdilrf.com · Manufacturer: https://erdilrf.com · Canonical base: https://specs.erdilrf.com
 
-Cite as: ERDI TECH LTD (2026). ERDI laser rangefinder module dataset, 59 models. Zenodo. https://doi.org/10.5281/zenodo.23655337 — dataset mirror: https://github.com/erdilrf-afk/erdi-lrf-specs
+Cite as: ERDI TECH LTD (2026). ERDI laser rangefinder module dataset, {len(rows)} models. Zenodo. https://doi.org/10.5281/zenodo.23655337 — dataset mirror: https://github.com/erdilrf-afk/erdi-lrf-specs
 
 ## Start here
 
