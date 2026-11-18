@@ -1,6 +1,6 @@
 # ERDI LRF Specs
 
-> Specification and selection resource for ERDI laser rangefinder modules: 62 models (905 nm, 940 nm and 1535 nm), published measuring ranges with the manufacturer's verbatim test conditions, interfaces, mass, and an open JSON/CSV dataset. No prices are published; quotes by email.
+> Specification and selection resource for ERDI laser rangefinder modules: 62 models (905 nm, 940 nm and 1535 nm), published measuring ranges with the manufacturer's verbatim test conditions where published, interfaces, mass, and an open JSON/CSV dataset. No prices are published; quotes by email.
 
 Contact: specs@erdilrf.com · Manufacturer: https://erdilrf.com · Canonical base: https://specs.erdilrf.com
 
@@ -41,7 +41,7 @@ This matrix currently documents 62 models; the Zenodo record is the frozen versi
 
 ## Reference tables (cite these)
 
-- [Range conditions](https://specs.erdilrf.com/data/range-conditions): every published range figure beside the target size, reflectance and visibility it was measured against, verbatim.
+- [Range conditions](https://specs.erdilrf.com/data/range-conditions): each range figure beside the target size, reflectance and visibility it was measured against where the manufacturer publishes them, and the models where it does not.
 - [Interfaces](https://specs.erdilrf.com/data/interfaces): interface class per model (UART-TTL, RS-422, RS-232, CAN), the manufacturer's wording, supply and mass.
 - [Optics](https://specs.erdilrf.com/data/optics): divergence, receiver aperture, pulse energy, update rate, and the spot diameter at 1 km.
 - [By application](https://specs.erdilrf.com/data/by-application): six job profiles with matching models and the selection rule stated explicitly.
