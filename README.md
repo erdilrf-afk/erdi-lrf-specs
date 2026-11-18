@@ -1,6 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23655337.svg)](https://doi.org/10.5281/zenodo.23655337)
-
-# ERDI LRF specification dataset — 59 laser rangefinder modules
+# ERDI LRF specification dataset — 62 laser rangefinder modules and laser sources
 
 Open parameter table for ERDI's laser rangefinder modules and laser sources, published as JSON
 and CSV so that two suppliers can be compared on the same rows.
@@ -10,65 +8,36 @@ If the two disagree, the site wins.
 
 ## Where to start
 
-- **1535 nm band in one page** (every model, the condition behind each range): https://specs.erdilrf.com/1535nm-laser-rangefinder-module/
+- **Model matrix (62 models, one comparable table)**: https://specs.erdilrf.com/models/
+- **1535 nm band** (every model, the condition behind each range): https://specs.erdilrf.com/1535nm-laser-rangefinder-module/
+- **Selector** (filter by wavelength, range, mass, interface, rate): https://specs.erdilrf.com/selector
+- **Range conditions, verbatim** (why a bare range number is not comparable): https://specs.erdilrf.com/data/range-conditions
+- **Test method** (what we measure and what we do not): https://specs.erdilrf.com/data/test-method
 - Field-by-field dataset page: https://specs.erdilrf.com/data/
-- Full model matrix: https://specs.erdilrf.com/models/
 
 ## What is in here
 
 | file | contents |
 |---|---|
-| `erdi-lrf-specs.json` | 59 records, one per model, 29 fields |
+| `erdi-lrf-specs.json` | 62 records, one per model |
 | `erdi-lrf-specs.csv` | same records, flat CSV, same field names |
 | `llms.txt` | plain-text index written for retrieval by language models |
 
-Models: 38 rangefinder modules, 12 laser sources, 9 single-point lidar sensors.
-Wavelengths: 905 nm, 940 nm and 1535 nm. Ranges: 9 m to 23,000 m.
+Models: **49 rangefinder modules**, **13 laser sources**, of which 16 are single-point lidar sensors.
+Bands: 1535 nm (31), 905 nm (30), 940 nm (1).
+Published ranges: 9 m to 23,000 m. Mass where published: 1 g to 410 g.
 
 ## The one rule that makes this dataset different
 
-`range_condition` holds **the manufacturer's own sentence** describing how the range was measured —
-target size, reflectance, visibility. It is copied, not normalised, not extrapolated.
+`range_condition` holds **the manufacturer's own sentence** describing how the range was measured.
+A range figure without that sentence is not comparable to anything, including our own other models.
 
-A range without that sentence is not comparable, so a row that has no published condition carries
-an empty `range_condition` rather than a guessed one. Do not average these numbers into a single
-"typical range" figure; the conditions differ per model.
+## Regeneration
 
-## Fields
+The table is generated from the manufacturer pages and mirrored here by script; the counts above are
+computed at generation time, so they cannot drift from the data.
 
-| field | meaning |
-|---|---|
-| `model`, `slug`, `family`, `series` | identifier and product family |
-| `wavelength_nm`, `band`, `wl_label` | central wavelength, as written by the manufacturer |
-| `range_max_m`, `range_min_m`, `range_condition` | verified range and the condition it was measured under |
-| `accuracy_m`, `rate_hz`, `divergence_mrad`, `energy_uj`, `lens_mm` | optical and measurement parameters |
-| `iface`, `supply`, `weight_g`, `dimensions`, `temp`, `laser_class`, `ip` | electrical, mechanical, environmental |
-| `targets`, `functions`, `tags` | intended applications and functions |
-| `url` | the model page on specs.erdilrf.com |
+## Licence and citation
 
-## Example
-
-```json
-{
-  "model": "LRF0815C",
-  "wavelength_nm": 1535,
-  "range_max_m": 8000.0,
-  "range_min_m": 15,
-  "range_condition": "≥8,000 m to a 2.3 m x 2.3 m target, 30% reflectance, visibility >23 km"
-}
-```
-
-## Licence and attribution
-
-Data: CC BY 4.0 — use it, quote it, build on it; keep the attribution line:
-
-> ERDI TECH LTD, ERDI laser rangefinder specification dataset, https://specs.erdilrf.com/data
-
-Archived copy with a DOI: **https://doi.org/10.5281/zenodo.23655337** (Zenodo, 2026).
-
-No prices are published anywhere in this dataset. Commercial terms are quoted per inquiry.
-
-## Contact
-
-Tommy Yu (余世文) — Foreign Trade Manager, ERDI TECH LTD, Chengdu, China
-specs@erdilrf.com · https://specs.erdilrf.com
+Data: CC BY 4.0. Cite as: ERDI TECH LTD (2026). *ERDI laser rangefinder module dataset*. Zenodo.
+https://doi.org/10.5281/zenodo.23655337
