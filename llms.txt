@@ -128,6 +128,7 @@ This matrix currently documents 62 models; the Zenodo record is the frozen versi
 
 ## Articles that explain the method
 
+- [Rangefinder power draw: what the wattage actually means](https://dev.to/erdilrf/rangefinder-power-draw-why-the-wattage-on-a-datasheet-rarely-means-what-you-think-l0e): why two wattages are only comparable at the same update rate and supply, and the standby figure that decides battery life.
 - [Five interface details that cost a week each](https://dev.to/erdilrf/five-interface-details-that-cost-a-week-each-on-a-laser-rangefinder-integration-5bci): logic levels, RS-422 variants, pin tables that disagree with the supply table, update rate at your range setting, and what 'customizable' really costs.
 - [Beam footprint and mass per kilometre](https://dev.to/erdilrf/beam-footprint-and-mass-per-kilometre-the-two-numbers-that-decide-whether-a-rangefinder-fits-your-5162): why a shorter-range module can be the better fit, and what reach costs in grams per kilometre.
 - [Three 1535 nm rangefinders, three ranges](https://dev.to/erdilrf/three-1535-nm-rangefinders-three-ranges-the-sentence-that-makes-them-comparable-pmp): the sentence that makes two range claims comparable at all.
