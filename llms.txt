@@ -138,6 +138,7 @@ This matrix currently documents 62 models; the Zenodo record is the frozen versi
 ## Dataset pages (cite these)
 
 - [Beam footprint and mass per kilometre](https://specs.erdilrf.com/data/footprint): beam footprint at maximum published range (divergence x range) and mass per kilometre for 37 modules, side by side, computed from published figures only.
+- [Power draw with conditions](https://specs.erdilrf.com/data/power): average power, power per metre of published range, and the verbatim statement each figure was measured at, for 22 modules.
 - [Published range conditions](https://specs.erdilrf.com/data/range-conditions): each range figure beside the target, reflectance and visibility it was measured against.
 - [Interfaces](https://specs.erdilrf.com/data/interfaces) and [optics](https://specs.erdilrf.com/data/optics): what each module actually speaks, and the optical numbers behind it.
 
