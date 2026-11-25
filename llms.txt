@@ -126,6 +126,15 @@ This matrix currently documents 62 models; the Zenodo record is the frozen versi
 - [LR1000E4](https://specs.erdilrf.com/models/lr1000e4): LR1000E4 · 905 nm · 1 km · ±1 m · 10 g · UART-TTL · [datasheet](https://specs.erdilrf.com/datasheets/lr1000e4) · [PDF](https://specs.erdilrf.com/datasheets/LR1000E4.pdf)
 - [SPD1200N3](https://specs.erdilrf.com/models/spd1200n3): SPD1200N3 · 905 nm · 1 km · ±0.5 m · 6 g · UART, 3.3 V TTL; customizable · [datasheet](https://specs.erdilrf.com/datasheets/spd1200n3) · [PDF](https://specs.erdilrf.com/datasheets/SPD1200N3.pdf)
 
+## Articles that explain the method
+
+- [Five interface details that cost a week each](https://dev.to/erdilrf/five-interface-details-that-cost-a-week-each-on-a-laser-rangefinder-integration-5bci): logic levels, RS-422 variants, pin tables that disagree with the supply table, update rate at your range setting, and what 'customizable' really costs.
+- [Beam footprint and mass per kilometre](https://dev.to/erdilrf/beam-footprint-and-mass-per-kilometre-the-two-numbers-that-decide-whether-a-rangefinder-fits-your-5162): why a shorter-range module can be the better fit, and what reach costs in grams per kilometre.
+- [Three 1535 nm rangefinders, three ranges](https://dev.to/erdilrf/three-1535-nm-rangefinders-three-ranges-the-sentence-that-makes-them-comparable-pmp): the sentence that makes two range claims comparable at all.
+- [A rangefinder dataset you can diff](https://dev.to/erdilrf/a-rangefinder-dataset-you-can-diff-59-models-with-the-test-condition-attached-n4m): why the dataset is versioned rather than republished.
+- [Your lidar says 40 m and reaches 9 m](https://dev.to/erdilrf/your-lidar-says-40-m-and-reaches-9-m-the-four-numbers-that-decide-a-real-range-7o4): the four numbers behind a real range.
+
+
 ## Dataset pages (cite these)
 
 - [Beam footprint and mass per kilometre](https://specs.erdilrf.com/data/footprint): beam footprint at maximum published range (divergence x range) and mass per kilometre for 37 modules, side by side, computed from published figures only.
