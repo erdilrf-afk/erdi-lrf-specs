@@ -32,7 +32,10 @@
   "url": "https://erdilrf.com/models/lrf0815c/",
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 21.9,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.0,
+  "power_per_metre_mw": 0.25,
+  "power_statement": "Average ≤2 W (condition not stated); peak ≤3 W at 10 Hz; standby ≤1.2 W"
  },
  {
   "model": "LRF0405C",
@@ -67,7 +70,10 @@
   "url": "https://erdilrf.com/models/lrf0405c/",
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 8.0,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.5,
+  "power_per_metre_mw": 0.62,
+  "power_statement": "Average ≤2.5 W at 10 Hz; peak ≤7 W at 12 V. The 12 V condition conflicts with the 3-5 V specification row."
  },
  {
   "model": "MINI-100",
@@ -102,7 +108,10 @@
   "url": "https://erdilrf.com/models/mini-100/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER100",
@@ -137,7 +146,10 @@
   "url": "https://erdilrf.com/models/er100/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER10000",
@@ -172,7 +184,10 @@
   "url": "https://erdilrf.com/models/er10000/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 200.0
+  "interval_between_measurements_ms": 200.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER200",
@@ -207,7 +222,10 @@
   "url": "https://erdilrf.com/models/er200/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER2000",
@@ -242,7 +260,10 @@
   "url": "https://erdilrf.com/models/er2000/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER300",
@@ -277,7 +298,10 @@
   "url": "https://erdilrf.com/models/er300/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER400",
@@ -312,7 +336,10 @@
   "url": "https://erdilrf.com/models/er400/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER4000",
@@ -347,7 +374,10 @@
   "url": "https://erdilrf.com/models/er4000/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 200.0
+  "interval_between_measurements_ms": 200.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER500",
@@ -382,7 +412,10 @@
   "url": "https://erdilrf.com/models/er500/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER800",
@@ -417,7 +450,10 @@
   "url": "https://erdilrf.com/models/er800/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER8000",
@@ -452,7 +488,10 @@
   "url": "https://erdilrf.com/models/er8000/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 200.0
+  "interval_between_measurements_ms": 200.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER900",
@@ -487,7 +526,10 @@
   "url": "https://erdilrf.com/models/er900/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 200.0
+  "interval_between_measurements_ms": 200.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LR1000D23",
@@ -522,7 +564,10 @@
   "url": "https://erdilrf.com/models/lr1000d23/",
   "footprint_at_max_range_m": 7.2,
   "mass_per_km_g": 16.7,
-  "interval_between_measurements_ms": 83.33
+  "interval_between_measurements_ms": 83.33,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LR1000E2",
@@ -557,7 +602,10 @@
   "url": "https://erdilrf.com/models/lr1000e2/",
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 10.0,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 1.0,
+  "power_per_metre_mw": 1.0,
+  "power_statement": "≤ 1 W"
  },
  {
   "model": "LR1000E4",
@@ -592,7 +640,10 @@
   "url": "https://erdilrf.com/models/lr1000e4/",
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 10.0,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 1.0,
+  "power_per_metre_mw": 1.0,
+  "power_statement": "≤ 1 W"
  },
  {
   "model": "LR1200D23",
@@ -627,7 +678,10 @@
   "url": "https://erdilrf.com/models/lr1200d23/",
   "footprint_at_max_range_m": 7.2,
   "mass_per_km_g": 16.7,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LR1200E2",
@@ -662,7 +716,10 @@
   "url": "https://erdilrf.com/models/lr1200e2/",
   "footprint_at_max_range_m": 4.8,
   "mass_per_km_g": 8.3,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": "≈ 1 W — Approximate value in the specification table"
  },
  {
   "model": "LR1200E4",
@@ -697,7 +754,10 @@
   "url": "https://erdilrf.com/models/lr1200e4/",
   "footprint_at_max_range_m": 4.8,
   "mass_per_km_g": 8.3,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": "≈ 1 W — Approximate value in the specification table"
  },
  {
   "model": "LR1500D23",
@@ -732,7 +792,10 @@
   "url": "https://erdilrf.com/models/lr1500d23/",
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 13.3,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LR1500E2",
@@ -767,7 +830,10 @@
   "url": "https://erdilrf.com/models/lr1500e2/",
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 6.7,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": "≈ 1 W — Approximate value in the specification table"
  },
  {
   "model": "LR1500E4",
@@ -802,7 +868,10 @@
   "url": "https://erdilrf.com/models/lr1500e4/",
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 6.7,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": "≈ 1 W — Approximate value in the specification table"
  },
  {
   "model": "LR2000E2",
@@ -837,7 +906,10 @@
   "url": "https://erdilrf.com/models/lr2000e2/",
   "footprint_at_max_range_m": 12.0,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": "≈ 1.2 W — Approximate value in the specification table"
  },
  {
   "model": "LR2000E4",
@@ -872,7 +944,10 @@
   "url": "https://erdilrf.com/models/lr2000e4/",
   "footprint_at_max_range_m": 12.0,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": "≈ 1.2 W — Approximate value in the specification table"
  },
  {
   "model": "LRF0105C",
@@ -907,7 +982,10 @@
   "url": "https://erdilrf.com/models/lrf0105c/",
   "footprint_at_max_range_m": 3.0,
   "mass_per_km_g": 9.7,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 0.8,
+  "power_per_metre_mw": 0.27,
+  "power_statement": "Average ≤0.8 W; peak ≤1.5 W; standby ≤1 mW"
  },
  {
   "model": "LRF0305C",
@@ -942,7 +1020,10 @@
   "url": "https://erdilrf.com/models/lrf0305c/",
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 3.5,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 0.9,
+  "power_per_metre_mw": 0.23,
+  "power_statement": "At 5 V: operating ≤0.9 W at 1 Hz and <1.5 W at 10 Hz; peak <3 W Standby ≤10 mW with Power_on low; ≤0.8 W with Power_on high."
  },
  {
   "model": "LRF0306C",
@@ -977,7 +1058,10 @@
   "url": "https://erdilrf.com/models/lrf0306c/",
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 3.5,
-  "interval_between_measurements_ms": 333.33
+  "interval_between_measurements_ms": 333.33,
+  "power_avg_w": 0.9,
+  "power_per_metre_mw": 0.23,
+  "power_statement": "At 5 V: operating ≤0.9 W at 1 Hz and <1.1 W at 3 Hz; peak ≤3 W Standby ≤10 mW with Power_on low; ≤0.8 W with Power_on high."
  },
  {
   "model": "LRF0310C",
@@ -1012,7 +1096,10 @@
   "url": "https://erdilrf.com/models/lrf0310c/",
   "footprint_at_max_range_m": 1.8,
   "mass_per_km_g": 10.7,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 1.5,
+  "power_per_metre_mw": 0.5,
+  "power_statement": "Average ≤1.5 W at 1 Hz; peak ≤7 W at 12 V; standby ≤0.6 W"
  },
  {
   "model": "LRF0609C",
@@ -1047,7 +1134,10 @@
   "url": "https://erdilrf.com/models/lrf0609c/",
   "footprint_at_max_range_m": 3.0,
   "mass_per_km_g": 10.3,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 1.5,
+  "power_per_metre_mw": 0.25,
+  "power_statement": "Average ≤1.5 W; standby ≤0.3 W; operating condition not stated"
  },
  {
   "model": "LRF0610C",
@@ -1082,7 +1172,10 @@
   "url": "https://erdilrf.com/models/lrf0610c/",
   "footprint_at_max_range_m": 3.0,
   "mass_per_km_g": 15.0,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.5,
+  "power_per_metre_mw": 0.42,
+  "power_statement": "Average ≤2.5 W at 10 Hz; peak ≤7 W at 12 V; standby ≤1 mW"
  },
  {
   "model": "LRF0612C",
@@ -1117,7 +1210,10 @@
   "url": "https://erdilrf.com/models/lrf0612c/",
   "footprint_at_max_range_m": 1.8,
   "mass_per_km_g": 9.7,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 4.0,
+  "power_per_metre_mw": 0.67,
+  "power_statement": "Average ≤4 W (source leaves the '@' condition blank); peak ≤14 W at 12 V; standby ≤1 mW"
  },
  {
   "model": "LRF0816C",
@@ -1152,7 +1248,10 @@
   "url": "https://erdilrf.com/models/lrf0816c/",
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 7.2,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 4.0,
+  "power_per_metre_mw": 0.5,
+  "power_statement": "Average ≤4 W (source leaves the '@' condition blank); peak ≤14 W at 12 V; standby ≤1 mW"
  },
  {
   "model": "LRF0818C",
@@ -1187,7 +1286,10 @@
   "url": "https://erdilrf.com/models/lrf0818c/",
   "footprint_at_max_range_m": 3.2,
   "mass_per_km_g": 8.1,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 4.0,
+  "power_per_metre_mw": 0.5,
+  "power_statement": "Operating ≤4 W; peak ≤14 W at 12 V; standby ≤1 mW"
  },
  {
   "model": "LRF100H",
@@ -1222,7 +1324,10 @@
   "url": "https://erdilrf.com/models/lrf100h/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 200.0,
-  "interval_between_measurements_ms": 0.1
+  "interval_between_measurements_ms": 0.1,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF1017C",
@@ -1257,7 +1362,10 @@
   "url": "https://erdilrf.com/models/lrf1017c/",
   "footprint_at_max_range_m": 3.0,
   "mass_per_km_g": 27.5,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.0,
+  "power_per_metre_mw": 0.2,
+  "power_statement": "Average ≤2 W; peak ≤3 W at 10 Hz; standby ≤1.2 W"
  },
  {
   "model": "LRF10VB",
@@ -1292,7 +1400,10 @@
   "url": "https://erdilrf.com/models/lrf10vb/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 111.1,
-  "interval_between_measurements_ms": 20.0
+  "interval_between_measurements_ms": 20.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF1200A1",
@@ -1327,7 +1438,10 @@
   "url": "https://erdilrf.com/models/lrf1200a1/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 15.0,
-  "interval_between_measurements_ms": 333.33
+  "interval_between_measurements_ms": 333.33,
+  "power_avg_w": 1.5,
+  "power_per_metre_mw": 1.25,
+  "power_statement": "≤1.5 W"
  },
  {
   "model": "LRF1221C",
@@ -1362,7 +1476,10 @@
   "url": "https://erdilrf.com/models/lrf1221c/",
   "footprint_at_max_range_m": 3.6,
   "mass_per_km_g": 22.9,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.0,
+  "power_per_metre_mw": 0.17,
+  "power_statement": "Average ≤2 W; peak ≤3 W at 10 Hz; standby ≤1.2 W"
  },
  {
   "model": "LRF1222C",
@@ -1397,7 +1514,10 @@
   "url": "https://erdilrf.com/models/lrf1222c/",
   "footprint_at_max_range_m": 3.6,
   "mass_per_km_g": 27.9,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.0,
+  "power_per_metre_mw": 0.17,
+  "power_statement": "Average ≤2 W; peak ≤3 W at 10 Hz; standby ≤1.2 W"
  },
  {
   "model": "LRF1500H",
@@ -1432,7 +1552,10 @@
   "url": "https://erdilrf.com/models/lrf1500h/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 13.3,
-  "interval_between_measurements_ms": 1.0
+  "interval_between_measurements_ms": 1.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF1525C",
@@ -1467,7 +1590,10 @@
   "url": "https://erdilrf.com/models/lrf1525c/",
   "footprint_at_max_range_m": 4.5,
   "mass_per_km_g": 26.7,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.0,
+  "power_per_metre_mw": 0.13,
+  "power_statement": "Average ≤2 W; peak ≤3 W; standby ≤1.2 W; peak-power test condition not stated"
  },
  {
   "model": "LRF1829C",
@@ -1502,7 +1628,10 @@
   "url": "https://erdilrf.com/models/lrf1829c/",
   "footprint_at_max_range_m": 6.9,
   "mass_per_km_g": 17.4,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.0,
+  "power_per_metre_mw": 0.09,
+  "power_statement": "Average ≤2 W; peak ≤3 W; standby ≤1.2 W; peak-power test condition not stated"
  },
  {
   "model": "LRF1830C",
@@ -1537,7 +1666,10 @@
   "url": "https://erdilrf.com/models/lrf1830c/",
   "footprint_at_max_range_m": 6.9,
   "mass_per_km_g": 17.4,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.0,
+  "power_per_metre_mw": 0.09,
+  "power_statement": "Average ≤2 W; peak ≤3 W; standby ≤1.2 W; peak-power test condition not stated"
  },
  {
   "model": "LRF1831C",
@@ -1572,7 +1704,10 @@
   "url": "https://erdilrf.com/models/lrf1831c/",
   "footprint_at_max_range_m": 15.6,
   "mass_per_km_g": 34.2,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 2.0,
+  "power_per_metre_mw": 0.17,
+  "power_statement": "Average ≤2 W; peak ≤3 W; standby ≤1.2 W; peak-power test condition not stated"
  },
  {
   "model": "LRF200H",
@@ -1607,7 +1742,10 @@
   "url": "https://erdilrf.com/models/lrf200h/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 100.0,
-  "interval_between_measurements_ms": 0.1
+  "interval_between_measurements_ms": 0.1,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF22VB",
@@ -1642,7 +1780,10 @@
   "url": "https://erdilrf.com/models/lrf22vb/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 75.0,
-  "interval_between_measurements_ms": 5.0
+  "interval_between_measurements_ms": 5.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF3000A1",
@@ -1677,7 +1818,10 @@
   "url": "https://erdilrf.com/models/lrf3000a1/",
   "footprint_at_max_range_m": 30.0,
   "mass_per_km_g": 4.0,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": 1.8,
+  "power_per_metre_mw": 0.6,
+  "power_statement": "≤1.8 W at +25 °C; ≤1.6 W at -20 °C — +3.3 V input. These entries do not extend the operating-temperature range."
  },
  {
   "model": "LRF300H",
@@ -1712,7 +1856,10 @@
   "url": "https://erdilrf.com/models/lrf300h/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 66.7,
-  "interval_between_measurements_ms": 1.0
+  "interval_between_measurements_ms": 1.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF50H",
@@ -1747,7 +1894,10 @@
   "url": "https://erdilrf.com/models/lrf50h/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 300.0,
-  "interval_between_measurements_ms": 0.1
+  "interval_between_measurements_ms": 0.1,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF50VB",
@@ -1782,7 +1932,10 @@
   "url": "https://erdilrf.com/models/lrf50vb/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 26.0,
-  "interval_between_measurements_ms": 10.0
+  "interval_between_measurements_ms": 10.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF600H",
@@ -1817,7 +1970,10 @@
   "url": "https://erdilrf.com/models/lrf600h/",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 33.3,
-  "interval_between_measurements_ms": 1.0
+  "interval_between_measurements_ms": 1.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "SPD1200N0",
@@ -1852,7 +2008,10 @@
   "url": "https://erdilrf.com/models/spd1200n0/",
   "footprint_at_max_range_m": 6.75,
   "mass_per_km_g": 3.3,
-  "interval_between_measurements_ms": 66.67
+  "interval_between_measurements_ms": 66.67,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "SPD1200N2",
@@ -1887,7 +2046,10 @@
   "url": "https://erdilrf.com/models/spd1200n2/",
   "footprint_at_max_range_m": 6.75,
   "mass_per_km_g": 3.3,
-  "interval_between_measurements_ms": 66.67
+  "interval_between_measurements_ms": 66.67,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "SPD1200N3",
@@ -1922,7 +2084,10 @@
   "url": "https://erdilrf.com/models/spd1200n3/",
   "footprint_at_max_range_m": 6.0,
   "mass_per_km_g": 6.0,
-  "interval_between_measurements_ms": 66.67
+  "interval_between_measurements_ms": 66.67,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "SPD1200N4",
@@ -1957,7 +2122,10 @@
   "url": "https://erdilrf.com/models/spd1200n4/",
   "footprint_at_max_range_m": 6.75,
   "mass_per_km_g": 3.3,
-  "interval_between_measurements_ms": 66.67
+  "interval_between_measurements_ms": 66.67,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "SPD1200S2",
@@ -1992,7 +2160,10 @@
   "url": "https://erdilrf.com/models/spd1200s2/",
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 6.7,
-  "interval_between_measurements_ms": 66.67
+  "interval_between_measurements_ms": 66.67,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "SPD1200Z2",
@@ -2027,7 +2198,10 @@
   "url": "https://erdilrf.com/models/spd1200z2/",
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 4.0,
-  "interval_between_measurements_ms": 50.0
+  "interval_between_measurements_ms": 50.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "SPD1200ZG",
@@ -2062,7 +2236,10 @@
   "url": "https://erdilrf.com/models/spd1200zg/",
   "footprint_at_max_range_m": 7.2,
   "mass_per_km_g": 4.2,
-  "interval_between_measurements_ms": 100.0
+  "interval_between_measurements_ms": 100.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF2000A",
@@ -2097,7 +2274,10 @@
   "url": "https://erditechs.com/products/diode-laser-rangefinder-module-905nm---lrf2000a-03",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 5.5,
-  "interval_between_measurements_ms": null
+  "interval_between_measurements_ms": null,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "LRF1500A",
@@ -2132,7 +2312,10 @@
   "url": "https://erditechs.com/products/905nm-laser-distance-sensor-module-1500m",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 7.3,
-  "interval_between_measurements_ms": null
+  "interval_between_measurements_ms": null,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  },
  {
   "model": "ER40",
@@ -2167,6 +2350,9 @@
   "url": "https://erditechs.com/products/er40",
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
-  "interval_between_measurements_ms": 1.0
+  "interval_between_measurements_ms": 1.0,
+  "power_avg_w": null,
+  "power_per_metre_mw": null,
+  "power_statement": null
  }
 ]
