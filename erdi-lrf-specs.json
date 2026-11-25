@@ -29,7 +29,10 @@
   "targets": "Up to 3 targets",
   "functions": "",
   "tags": "mid-to-long-range;high-rate;multi-target;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0815c/"
+  "url": "https://erdilrf.com/models/lrf0815c/",
+  "footprint_at_max_range_m": 2.4,
+  "mass_per_km_g": 21.9,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0405C",
@@ -61,7 +64,10 @@
   "targets": "Up to 3 targets",
   "functions": "",
   "tags": "mid-to-long-range;lightweight;high-rate;multi-target;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0405c/"
+  "url": "https://erdilrf.com/models/lrf0405c/",
+  "footprint_at_max_range_m": 2.4,
+  "mass_per_km_g": 8.0,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "MINI-100",
@@ -93,7 +99,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/mini-100/"
+  "url": "https://erdilrf.com/models/mini-100/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "ER100",
@@ -125,7 +134,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er100/"
+  "url": "https://erdilrf.com/models/er100/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "ER10000",
@@ -157,7 +169,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er10000/"
+  "url": "https://erdilrf.com/models/er10000/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 200.0
  },
  {
   "model": "ER200",
@@ -189,7 +204,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er200/"
+  "url": "https://erdilrf.com/models/er200/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "ER2000",
@@ -221,7 +239,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er2000/"
+  "url": "https://erdilrf.com/models/er2000/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "ER300",
@@ -253,7 +274,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er300/"
+  "url": "https://erdilrf.com/models/er300/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "ER400",
@@ -285,7 +309,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er400/"
+  "url": "https://erdilrf.com/models/er400/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "ER4000",
@@ -317,7 +344,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er4000/"
+  "url": "https://erdilrf.com/models/er4000/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 200.0
  },
  {
   "model": "ER500",
@@ -349,7 +379,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er500/"
+  "url": "https://erdilrf.com/models/er500/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "ER800",
@@ -381,7 +414,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er800/"
+  "url": "https://erdilrf.com/models/er800/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "ER8000",
@@ -413,7 +449,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er8000/"
+  "url": "https://erdilrf.com/models/er8000/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 200.0
  },
  {
   "model": "ER900",
@@ -445,7 +484,10 @@
   "targets": "",
   "functions": "",
   "tags": "laser source;OEM component",
-  "url": "https://erdilrf.com/models/er900/"
+  "url": "https://erdilrf.com/models/er900/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 200.0
  },
  {
   "model": "LR1000D23",
@@ -477,7 +519,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1000d23/"
+  "url": "https://erdilrf.com/models/lr1000d23/",
+  "footprint_at_max_range_m": 7.2,
+  "mass_per_km_g": 16.7,
+  "interval_between_measurements_ms": 83.33
  },
  {
   "model": "LR1000E2",
@@ -509,7 +554,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1000e2/"
+  "url": "https://erdilrf.com/models/lr1000e2/",
+  "footprint_at_max_range_m": 9.0,
+  "mass_per_km_g": 10.0,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR1000E4",
@@ -541,7 +589,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1000e4/"
+  "url": "https://erdilrf.com/models/lr1000e4/",
+  "footprint_at_max_range_m": 9.0,
+  "mass_per_km_g": 10.0,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR1200D23",
@@ -573,7 +624,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1200d23/"
+  "url": "https://erdilrf.com/models/lr1200d23/",
+  "footprint_at_max_range_m": 7.2,
+  "mass_per_km_g": 16.7,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR1200E2",
@@ -605,7 +659,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1200e2/"
+  "url": "https://erdilrf.com/models/lr1200e2/",
+  "footprint_at_max_range_m": 4.8,
+  "mass_per_km_g": 8.3,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR1200E4",
@@ -637,7 +694,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1200e4/"
+  "url": "https://erdilrf.com/models/lr1200e4/",
+  "footprint_at_max_range_m": 4.8,
+  "mass_per_km_g": 8.3,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR1500D23",
@@ -669,7 +729,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1500d23/"
+  "url": "https://erdilrf.com/models/lr1500d23/",
+  "footprint_at_max_range_m": 9.0,
+  "mass_per_km_g": 13.3,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR1500E2",
@@ -701,7 +764,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1500e2/"
+  "url": "https://erdilrf.com/models/lr1500e2/",
+  "footprint_at_max_range_m": 9.0,
+  "mass_per_km_g": 6.7,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR1500E4",
@@ -733,7 +799,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr1500e4/"
+  "url": "https://erdilrf.com/models/lr1500e4/",
+  "footprint_at_max_range_m": 9.0,
+  "mass_per_km_g": 6.7,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR2000E2",
@@ -765,7 +834,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr2000e2/"
+  "url": "https://erdilrf.com/models/lr2000e2/",
+  "footprint_at_max_range_m": 12.0,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LR2000E4",
@@ -797,7 +869,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lr2000e4/"
+  "url": "https://erdilrf.com/models/lr2000e4/",
+  "footprint_at_max_range_m": 12.0,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0105C",
@@ -829,7 +904,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-to-long-range;lightweight;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0105c/"
+  "url": "https://erdilrf.com/models/lrf0105c/",
+  "footprint_at_max_range_m": 3.0,
+  "mass_per_km_g": 9.7,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0305C",
@@ -861,7 +939,10 @@
   "targets": "Up to 3 targets",
   "functions": "",
   "tags": "mid-to-long-range;lightweight;high-rate;multi-target;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0305c/"
+  "url": "https://erdilrf.com/models/lrf0305c/",
+  "footprint_at_max_range_m": 2.4,
+  "mass_per_km_g": 3.5,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0306C",
@@ -893,7 +974,10 @@
   "targets": "Up to 3 targets",
   "functions": "",
   "tags": "mid-to-long-range;lightweight;multi-target;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0306c/"
+  "url": "https://erdilrf.com/models/lrf0306c/",
+  "footprint_at_max_range_m": 2.4,
+  "mass_per_km_g": 3.5,
+  "interval_between_measurements_ms": 333.33
  },
  {
   "model": "LRF0310C",
@@ -925,7 +1009,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-to-long-range;lightweight;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0310c/"
+  "url": "https://erdilrf.com/models/lrf0310c/",
+  "footprint_at_max_range_m": 1.8,
+  "mass_per_km_g": 10.7,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0609C",
@@ -957,7 +1044,10 @@
   "targets": "",
   "functions": "Single/continuous ranging; first/last return selection; range gate; built-in self-test; status and temperature reporting; shot counter; serial firmware update. These names do not disclose the implemen",
   "tags": "mid-to-long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0609c/"
+  "url": "https://erdilrf.com/models/lrf0609c/",
+  "footprint_at_max_range_m": 3.0,
+  "mass_per_km_g": 10.3,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0610C",
@@ -989,7 +1079,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-to-long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0610c/"
+  "url": "https://erdilrf.com/models/lrf0610c/",
+  "footprint_at_max_range_m": 3.0,
+  "mass_per_km_g": 15.0,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0612C",
@@ -1021,7 +1114,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-to-long-range;lightweight;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0612c/"
+  "url": "https://erdilrf.com/models/lrf0612c/",
+  "footprint_at_max_range_m": 1.8,
+  "mass_per_km_g": 9.7,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0816C",
@@ -1053,7 +1149,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-to-long-range;lightweight;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0816c/"
+  "url": "https://erdilrf.com/models/lrf0816c/",
+  "footprint_at_max_range_m": 2.4,
+  "mass_per_km_g": 7.2,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF0818C",
@@ -1085,7 +1184,10 @@
   "targets": "",
   "functions": "Single/continuous ranging; first/last return selection; range gate; built-in self-test; status and temperature reporting; shot counter; serial firmware update. These names do not disclose the implemen",
   "tags": "mid-to-long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf0818c/"
+  "url": "https://erdilrf.com/models/lrf0818c/",
+  "footprint_at_max_range_m": 3.2,
+  "mass_per_km_g": 8.1,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF100H",
@@ -1117,7 +1219,10 @@
   "targets": "",
   "functions": "",
   "tags": "short-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf100h/"
+  "url": "https://erdilrf.com/models/lrf100h/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 200.0,
+  "interval_between_measurements_ms": 0.1
  },
  {
   "model": "LRF1017C",
@@ -1149,7 +1254,10 @@
   "targets": "",
   "functions": "",
   "tags": "long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf1017c/"
+  "url": "https://erdilrf.com/models/lrf1017c/",
+  "footprint_at_max_range_m": 3.0,
+  "mass_per_km_g": 27.5,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF10VB",
@@ -1181,7 +1289,10 @@
   "targets": "",
   "functions": "",
   "tags": "short-range;lightweight;high-rate",
-  "url": "https://erdilrf.com/models/lrf10vb/"
+  "url": "https://erdilrf.com/models/lrf10vb/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 111.1,
+  "interval_between_measurements_ms": 20.0
  },
  {
   "model": "LRF1200A1",
@@ -1213,7 +1324,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;905 nm",
-  "url": "https://erdilrf.com/models/lrf1200a1/"
+  "url": "https://erdilrf.com/models/lrf1200a1/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 15.0,
+  "interval_between_measurements_ms": 333.33
  },
  {
   "model": "LRF1221C",
@@ -1245,7 +1359,10 @@
   "targets": "",
   "functions": "",
   "tags": "long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf1221c/"
+  "url": "https://erdilrf.com/models/lrf1221c/",
+  "footprint_at_max_range_m": 3.6,
+  "mass_per_km_g": 22.9,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF1222C",
@@ -1277,7 +1394,10 @@
   "targets": "",
   "functions": "",
   "tags": "long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf1222c/"
+  "url": "https://erdilrf.com/models/lrf1222c/",
+  "footprint_at_max_range_m": 3.6,
+  "mass_per_km_g": 27.9,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF1500H",
@@ -1309,7 +1429,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf1500h/"
+  "url": "https://erdilrf.com/models/lrf1500h/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 13.3,
+  "interval_between_measurements_ms": 1.0
  },
  {
   "model": "LRF1525C",
@@ -1341,7 +1464,10 @@
   "targets": "",
   "functions": "",
   "tags": "long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf1525c/"
+  "url": "https://erdilrf.com/models/lrf1525c/",
+  "footprint_at_max_range_m": 4.5,
+  "mass_per_km_g": 26.7,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF1829C",
@@ -1373,7 +1499,10 @@
   "targets": "",
   "functions": "",
   "tags": "long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf1829c/"
+  "url": "https://erdilrf.com/models/lrf1829c/",
+  "footprint_at_max_range_m": 6.9,
+  "mass_per_km_g": 17.4,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF1830C",
@@ -1405,7 +1534,10 @@
   "targets": "",
   "functions": "",
   "tags": "long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf1830c/"
+  "url": "https://erdilrf.com/models/lrf1830c/",
+  "footprint_at_max_range_m": 6.9,
+  "mass_per_km_g": 17.4,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF1831C",
@@ -1437,7 +1569,10 @@
   "targets": "",
   "functions": "a) Single-shot and continuous ranging; b) Three-target ranging with near/far target indication; c) Self-test function (including current APD temperature, high-voltage value, internal voltage, and blin",
   "tags": "long-range;high-rate;1535 nm",
-  "url": "https://erdilrf.com/models/lrf1831c/"
+  "url": "https://erdilrf.com/models/lrf1831c/",
+  "footprint_at_max_range_m": 15.6,
+  "mass_per_km_g": 34.2,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF200H",
@@ -1469,7 +1604,10 @@
   "targets": "",
   "functions": "",
   "tags": "short-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf200h/"
+  "url": "https://erdilrf.com/models/lrf200h/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 100.0,
+  "interval_between_measurements_ms": 0.1
  },
  {
   "model": "LRF22VB",
@@ -1501,7 +1639,10 @@
   "targets": "",
   "functions": "",
   "tags": "short-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf22vb/"
+  "url": "https://erdilrf.com/models/lrf22vb/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 75.0,
+  "interval_between_measurements_ms": 5.0
  },
  {
   "model": "LRF3000A1",
@@ -1533,7 +1674,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-to-long-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf3000a1/"
+  "url": "https://erdilrf.com/models/lrf3000a1/",
+  "footprint_at_max_range_m": 30.0,
+  "mass_per_km_g": 4.0,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF300H",
@@ -1565,7 +1709,10 @@
   "targets": "",
   "functions": "",
   "tags": "short-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf300h/"
+  "url": "https://erdilrf.com/models/lrf300h/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 66.7,
+  "interval_between_measurements_ms": 1.0
  },
  {
   "model": "LRF50H",
@@ -1597,7 +1744,10 @@
   "targets": "",
   "functions": "",
   "tags": "short-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf50h/"
+  "url": "https://erdilrf.com/models/lrf50h/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 300.0,
+  "interval_between_measurements_ms": 0.1
  },
  {
   "model": "LRF50VB",
@@ -1629,7 +1779,10 @@
   "targets": "",
   "functions": "",
   "tags": "short-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf50vb/"
+  "url": "https://erdilrf.com/models/lrf50vb/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 26.0,
+  "interval_between_measurements_ms": 10.0
  },
  {
   "model": "LRF600H",
@@ -1661,7 +1814,10 @@
   "targets": "",
   "functions": "",
   "tags": "short-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/lrf600h/"
+  "url": "https://erdilrf.com/models/lrf600h/",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 33.3,
+  "interval_between_measurements_ms": 1.0
  },
  {
   "model": "SPD1200N0",
@@ -1693,7 +1849,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/spd1200n0/"
+  "url": "https://erdilrf.com/models/spd1200n0/",
+  "footprint_at_max_range_m": 6.75,
+  "mass_per_km_g": 3.3,
+  "interval_between_measurements_ms": 66.67
  },
  {
   "model": "SPD1200N2",
@@ -1725,7 +1884,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/spd1200n2/"
+  "url": "https://erdilrf.com/models/spd1200n2/",
+  "footprint_at_max_range_m": 6.75,
+  "mass_per_km_g": 3.3,
+  "interval_between_measurements_ms": 66.67
  },
  {
   "model": "SPD1200N3",
@@ -1757,7 +1919,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/spd1200n3/"
+  "url": "https://erdilrf.com/models/spd1200n3/",
+  "footprint_at_max_range_m": 6.0,
+  "mass_per_km_g": 6.0,
+  "interval_between_measurements_ms": 66.67
  },
  {
   "model": "SPD1200N4",
@@ -1789,7 +1954,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/spd1200n4/"
+  "url": "https://erdilrf.com/models/spd1200n4/",
+  "footprint_at_max_range_m": 6.75,
+  "mass_per_km_g": 3.3,
+  "interval_between_measurements_ms": 66.67
  },
  {
   "model": "SPD1200S2",
@@ -1821,7 +1989,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/spd1200s2/"
+  "url": "https://erdilrf.com/models/spd1200s2/",
+  "footprint_at_max_range_m": 9.0,
+  "mass_per_km_g": 6.7,
+  "interval_between_measurements_ms": 66.67
  },
  {
   "model": "SPD1200Z2",
@@ -1853,7 +2024,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/spd1200z2/"
+  "url": "https://erdilrf.com/models/spd1200z2/",
+  "footprint_at_max_range_m": 9.0,
+  "mass_per_km_g": 4.0,
+  "interval_between_measurements_ms": 50.0
  },
  {
   "model": "SPD1200ZG",
@@ -1885,7 +2059,10 @@
   "targets": "",
   "functions": "",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erdilrf.com/models/spd1200zg/"
+  "url": "https://erdilrf.com/models/spd1200zg/",
+  "footprint_at_max_range_m": 7.2,
+  "mass_per_km_g": 4.2,
+  "interval_between_measurements_ms": 100.0
  },
  {
   "model": "LRF2000A",
@@ -1917,7 +2094,10 @@
   "targets": "",
   "functions": "PC configuration software",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erditechs.com/products/diode-laser-rangefinder-module-905nm---lrf2000a-03"
+  "url": "https://erditechs.com/products/diode-laser-rangefinder-module-905nm---lrf2000a-03",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 5.5,
+  "interval_between_measurements_ms": null
  },
  {
   "model": "LRF1500A",
@@ -1949,7 +2129,10 @@
   "targets": "",
   "functions": "PC configuration software",
   "tags": "mid-range;lightweight;high-rate;905 nm",
-  "url": "https://erditechs.com/products/905nm-laser-distance-sensor-module-1500m"
+  "url": "https://erditechs.com/products/905nm-laser-distance-sensor-module-1500m",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": 7.3,
+  "interval_between_measurements_ms": null
  },
  {
   "model": "ER40",
@@ -1981,6 +2164,9 @@
   "targets": "",
   "functions": "1500 G shock, 20–2000 Hz vibration",
   "tags": "laser source;OEM component",
-  "url": "https://erditechs.com/products/er40"
+  "url": "https://erditechs.com/products/er40",
+  "footprint_at_max_range_m": null,
+  "mass_per_km_g": null,
+  "interval_between_measurements_ms": 1.0
  }
 ]
