@@ -33,6 +33,8 @@
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 21.9,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0815c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0815C.pdf",
   "power_avg_w": 2.0,
   "power_per_metre_mw": 0.25,
   "power_statement": "Average ≤2 W (condition not stated); peak ≤3 W at 10 Hz; standby ≤1.2 W"
@@ -71,6 +73,8 @@
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 8.0,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0405c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0405C.pdf",
   "power_avg_w": 2.5,
   "power_per_metre_mw": 0.62,
   "power_statement": "Average ≤2.5 W at 10 Hz; peak ≤7 W at 12 V. The 12 V condition conflicts with the 3-5 V specification row."
@@ -109,6 +113,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/mini-100",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/MINI-100.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -147,6 +153,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er100",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER100.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -185,6 +193,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 200.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er10000",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER10000.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -223,6 +233,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er200",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER200.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -261,6 +273,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er2000",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER2000.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -299,6 +313,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er300",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER300.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -337,6 +353,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er400",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER400.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -375,6 +393,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 200.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er4000",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER4000.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -413,6 +433,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er500",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER500.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -451,6 +473,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er800",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER800.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -489,6 +513,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 200.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er8000",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER8000.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -527,6 +553,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 200.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er900",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER900.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -565,6 +593,8 @@
   "footprint_at_max_range_m": 7.2,
   "mass_per_km_g": 16.7,
   "interval_between_measurements_ms": 83.33,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1000d23",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1000D23.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -603,6 +633,8 @@
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 10.0,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1000e2",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1000E2.pdf",
   "power_avg_w": 1.0,
   "power_per_metre_mw": 1.0,
   "power_statement": "≤ 1 W"
@@ -641,6 +673,8 @@
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 10.0,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1000e4",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1000E4.pdf",
   "power_avg_w": 1.0,
   "power_per_metre_mw": 1.0,
   "power_statement": "≤ 1 W"
@@ -679,6 +713,8 @@
   "footprint_at_max_range_m": 7.2,
   "mass_per_km_g": 16.7,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1200d23",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1200D23.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -717,6 +753,8 @@
   "footprint_at_max_range_m": 4.8,
   "mass_per_km_g": 8.3,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1200e2",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1200E2.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": "≈ 1 W — Approximate value in the specification table"
@@ -755,6 +793,8 @@
   "footprint_at_max_range_m": 4.8,
   "mass_per_km_g": 8.3,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1200e4",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1200E4.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": "≈ 1 W — Approximate value in the specification table"
@@ -793,6 +833,8 @@
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 13.3,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1500d23",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1500D23.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -831,6 +873,8 @@
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 6.7,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1500e2",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1500E2.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": "≈ 1 W — Approximate value in the specification table"
@@ -869,6 +913,8 @@
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 6.7,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr1500e4",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR1500E4.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": "≈ 1 W — Approximate value in the specification table"
@@ -907,6 +953,8 @@
   "footprint_at_max_range_m": 12.0,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr2000e2",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR2000E2.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": "≈ 1.2 W — Approximate value in the specification table"
@@ -945,6 +993,8 @@
   "footprint_at_max_range_m": 12.0,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lr2000e4",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LR2000E4.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": "≈ 1.2 W — Approximate value in the specification table"
@@ -983,6 +1033,8 @@
   "footprint_at_max_range_m": 3.0,
   "mass_per_km_g": 9.7,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0105c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0105C.pdf",
   "power_avg_w": 0.8,
   "power_per_metre_mw": 0.27,
   "power_statement": "Average ≤0.8 W; peak ≤1.5 W; standby ≤1 mW"
@@ -1021,6 +1073,8 @@
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 3.5,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0305c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0305C.pdf",
   "power_avg_w": 0.9,
   "power_per_metre_mw": 0.23,
   "power_statement": "At 5 V: operating ≤0.9 W at 1 Hz and <1.5 W at 10 Hz; peak <3 W Standby ≤10 mW with Power_on low; ≤0.8 W with Power_on high."
@@ -1059,6 +1113,8 @@
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 3.5,
   "interval_between_measurements_ms": 333.33,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0306c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0306C.pdf",
   "power_avg_w": 0.9,
   "power_per_metre_mw": 0.23,
   "power_statement": "At 5 V: operating ≤0.9 W at 1 Hz and <1.1 W at 3 Hz; peak ≤3 W Standby ≤10 mW with Power_on low; ≤0.8 W with Power_on high."
@@ -1097,6 +1153,8 @@
   "footprint_at_max_range_m": 1.8,
   "mass_per_km_g": 10.7,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0310c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0310C.pdf",
   "power_avg_w": 1.5,
   "power_per_metre_mw": 0.5,
   "power_statement": "Average ≤1.5 W at 1 Hz; peak ≤7 W at 12 V; standby ≤0.6 W"
@@ -1135,6 +1193,8 @@
   "footprint_at_max_range_m": 3.0,
   "mass_per_km_g": 10.3,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0609c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0609C.pdf",
   "power_avg_w": 1.5,
   "power_per_metre_mw": 0.25,
   "power_statement": "Average ≤1.5 W; standby ≤0.3 W; operating condition not stated"
@@ -1173,6 +1233,8 @@
   "footprint_at_max_range_m": 3.0,
   "mass_per_km_g": 15.0,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0610c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0610C.pdf",
   "power_avg_w": 2.5,
   "power_per_metre_mw": 0.42,
   "power_statement": "Average ≤2.5 W at 10 Hz; peak ≤7 W at 12 V; standby ≤1 mW"
@@ -1211,6 +1273,8 @@
   "footprint_at_max_range_m": 1.8,
   "mass_per_km_g": 9.7,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0612c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0612C.pdf",
   "power_avg_w": 4.0,
   "power_per_metre_mw": 0.67,
   "power_statement": "Average ≤4 W (source leaves the '@' condition blank); peak ≤14 W at 12 V; standby ≤1 mW"
@@ -1249,6 +1313,8 @@
   "footprint_at_max_range_m": 2.4,
   "mass_per_km_g": 7.2,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0816c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0816C.pdf",
   "power_avg_w": 4.0,
   "power_per_metre_mw": 0.5,
   "power_statement": "Average ≤4 W (source leaves the '@' condition blank); peak ≤14 W at 12 V; standby ≤1 mW"
@@ -1287,6 +1353,8 @@
   "footprint_at_max_range_m": 3.2,
   "mass_per_km_g": 8.1,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf0818c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF0818C.pdf",
   "power_avg_w": 4.0,
   "power_per_metre_mw": 0.5,
   "power_statement": "Operating ≤4 W; peak ≤14 W at 12 V; standby ≤1 mW"
@@ -1325,6 +1393,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 200.0,
   "interval_between_measurements_ms": 0.1,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf100h",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF100H.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -1363,6 +1433,8 @@
   "footprint_at_max_range_m": 3.0,
   "mass_per_km_g": 27.5,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1017c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1017C.pdf",
   "power_avg_w": 2.0,
   "power_per_metre_mw": 0.2,
   "power_statement": "Average ≤2 W; peak ≤3 W at 10 Hz; standby ≤1.2 W"
@@ -1401,6 +1473,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 111.1,
   "interval_between_measurements_ms": 20.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf10vb",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF10VB.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -1439,6 +1513,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 15.0,
   "interval_between_measurements_ms": 333.33,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1200a1",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1200A1.pdf",
   "power_avg_w": 1.5,
   "power_per_metre_mw": 1.25,
   "power_statement": "≤1.5 W"
@@ -1477,6 +1553,8 @@
   "footprint_at_max_range_m": 3.6,
   "mass_per_km_g": 22.9,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1221c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1221C.pdf",
   "power_avg_w": 2.0,
   "power_per_metre_mw": 0.17,
   "power_statement": "Average ≤2 W; peak ≤3 W at 10 Hz; standby ≤1.2 W"
@@ -1515,6 +1593,8 @@
   "footprint_at_max_range_m": 3.6,
   "mass_per_km_g": 27.9,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1222c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1222C.pdf",
   "power_avg_w": 2.0,
   "power_per_metre_mw": 0.17,
   "power_statement": "Average ≤2 W; peak ≤3 W at 10 Hz; standby ≤1.2 W"
@@ -1553,6 +1633,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 13.3,
   "interval_between_measurements_ms": 1.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1500h",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1500H.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -1591,6 +1673,8 @@
   "footprint_at_max_range_m": 4.5,
   "mass_per_km_g": 26.7,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1525c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1525C.pdf",
   "power_avg_w": 2.0,
   "power_per_metre_mw": 0.13,
   "power_statement": "Average ≤2 W; peak ≤3 W; standby ≤1.2 W; peak-power test condition not stated"
@@ -1629,6 +1713,8 @@
   "footprint_at_max_range_m": 6.9,
   "mass_per_km_g": 17.4,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1829c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1829C.pdf",
   "power_avg_w": 2.0,
   "power_per_metre_mw": 0.09,
   "power_statement": "Average ≤2 W; peak ≤3 W; standby ≤1.2 W; peak-power test condition not stated"
@@ -1667,6 +1753,8 @@
   "footprint_at_max_range_m": 6.9,
   "mass_per_km_g": 17.4,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1830c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1830C.pdf",
   "power_avg_w": 2.0,
   "power_per_metre_mw": 0.09,
   "power_statement": "Average ≤2 W; peak ≤3 W; standby ≤1.2 W; peak-power test condition not stated"
@@ -1705,6 +1793,8 @@
   "footprint_at_max_range_m": 15.6,
   "mass_per_km_g": 34.2,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1831c",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1831C.pdf",
   "power_avg_w": 2.0,
   "power_per_metre_mw": 0.17,
   "power_statement": "Average ≤2 W; peak ≤3 W; standby ≤1.2 W; peak-power test condition not stated"
@@ -1743,6 +1833,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 100.0,
   "interval_between_measurements_ms": 0.1,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf200h",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF200H.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -1781,6 +1873,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 75.0,
   "interval_between_measurements_ms": 5.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf22vb",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF22VB.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -1819,6 +1913,8 @@
   "footprint_at_max_range_m": 30.0,
   "mass_per_km_g": 4.0,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf3000a1",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF3000A1.pdf",
   "power_avg_w": 1.8,
   "power_per_metre_mw": 0.6,
   "power_statement": "≤1.8 W at +25 °C; ≤1.6 W at -20 °C — +3.3 V input. These entries do not extend the operating-temperature range."
@@ -1857,6 +1953,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 66.7,
   "interval_between_measurements_ms": 1.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf300h",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF300H.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -1895,6 +1993,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 300.0,
   "interval_between_measurements_ms": 0.1,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf50h",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF50H.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -1933,6 +2033,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 26.0,
   "interval_between_measurements_ms": 10.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf50vb",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF50VB.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -1971,6 +2073,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 33.3,
   "interval_between_measurements_ms": 1.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf600h",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF600H.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2009,6 +2113,8 @@
   "footprint_at_max_range_m": 6.75,
   "mass_per_km_g": 3.3,
   "interval_between_measurements_ms": 66.67,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/spd1200n0",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/SPD1200N0.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2047,6 +2153,8 @@
   "footprint_at_max_range_m": 6.75,
   "mass_per_km_g": 3.3,
   "interval_between_measurements_ms": 66.67,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/spd1200n2",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/SPD1200N2.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2085,6 +2193,8 @@
   "footprint_at_max_range_m": 6.0,
   "mass_per_km_g": 6.0,
   "interval_between_measurements_ms": 66.67,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/spd1200n3",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/SPD1200N3.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2123,6 +2233,8 @@
   "footprint_at_max_range_m": 6.75,
   "mass_per_km_g": 3.3,
   "interval_between_measurements_ms": 66.67,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/spd1200n4",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/SPD1200N4.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2161,6 +2273,8 @@
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 6.7,
   "interval_between_measurements_ms": 66.67,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/spd1200s2",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/SPD1200S2.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2199,6 +2313,8 @@
   "footprint_at_max_range_m": 9.0,
   "mass_per_km_g": 4.0,
   "interval_between_measurements_ms": 50.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/spd1200z2",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/SPD1200Z2.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2237,6 +2353,8 @@
   "footprint_at_max_range_m": 7.2,
   "mass_per_km_g": 4.2,
   "interval_between_measurements_ms": 100.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/spd1200zg",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/SPD1200ZG.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2275,6 +2393,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 5.5,
   "interval_between_measurements_ms": null,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf2000a",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF2000A.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2313,6 +2433,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": 7.3,
   "interval_between_measurements_ms": null,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/lrf1500a",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/LRF1500A.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
@@ -2351,6 +2473,8 @@
   "footprint_at_max_range_m": null,
   "mass_per_km_g": null,
   "interval_between_measurements_ms": 1.0,
+  "datasheet_url": "https://specs.erdilrf.com/datasheets/er40",
+  "datasheet_pdf_url": "https://specs.erdilrf.com/datasheets/ER40.pdf",
   "power_avg_w": null,
   "power_per_metre_mw": null,
   "power_statement": null
